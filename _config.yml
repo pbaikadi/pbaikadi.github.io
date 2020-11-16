@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Pranay Baikadi"
-  avatar           : "C:/GitHub/pbaikadi.github.io/images/feynman.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/feynman.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi! I am Pranay."
   location         : "Tempe, Arizona"
   email            : pranayreddy865@gmail.com
