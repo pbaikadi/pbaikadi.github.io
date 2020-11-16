@@ -101,10 +101,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "pranayreddy865@gmail.com"
-    - label: "Website"
+    #  url: "pranayreddy865@gmail.com"
+    - label: "nanoHUB"
       icon: "fas fa-fw fa-link"
-      url: "https://pbaikadi.github.io"
+      url: "https://nanohub.org"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
