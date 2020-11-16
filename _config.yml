@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi! I am Pranay."
   location         : "Tempe, Arizona"
-  email            : pranayreddy865@gmail.com
+  #email            : pranayreddy865@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
