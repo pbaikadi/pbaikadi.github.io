@@ -3,7 +3,9 @@ main:
   - title: "About"
     url: /about/
   - title: "PETSc"
-    url: /PETSc/
+    url: https://https://www.mcs.anl.gov/petsc/
+  - title: "SLEPc"
+    url: https://https://slepc.upv.es/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
