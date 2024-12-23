@@ -21,7 +21,7 @@ title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Pranay Baikadi"
-description              : "An amazing website."
+description              : "This is a test."
 url                      : https://pbaikadi.github.io
 baseurl                  :
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,8 +115,8 @@ analytics:
 author:
   name             : "Pranay Baikadi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "This is a biography"
-  location         : "Somewhere"
+  bio              : "This is a test"
+  location         : "United States"
   email            :
   links:
     - label: "Email"
