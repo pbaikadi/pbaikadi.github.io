@@ -21,7 +21,7 @@ title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Pranay Baikadi"
-description              : "This is a description of the site"
+description              : "This is another description of the site"
 url                      : https://pbaikadi.github.io
 baseurl                  :
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
